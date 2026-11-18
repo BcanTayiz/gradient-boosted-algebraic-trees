@@ -51,6 +51,21 @@ from sklearn.preprocessing import StandardScaler
 │   │   ├── final_code.ipynb
 
 ```
+---
+
+## 📄 Citation
+
+If you use this framework or code in your research, please cite our paper draft:
+
+```bibtex
+@software{Gradient_boosted_algebraic_model_trees,
+  title={Gradient Boosted Algebraic Model Trees (GBAT)},
+  author={Barış Can Tayiz},
+  year={2026},
+  publisher={Zenodo},
+  doi={10.5281/zenodo.24328105},
+  url={https://doi.org/10.5281/zenodo.24328105}
+}
 
 
 
